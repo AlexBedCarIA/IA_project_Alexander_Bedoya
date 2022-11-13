@@ -1,4 +1,12 @@
-# Predicción de posición final en una partida de PUBG
+¡Bienvenidos!
+
+En este repositorio se alojan las entregas para el proyecto final del curso de Introducción a la Inteligencia Artificial de la UdeA.
+
+# Proyecto:
+
+## Predicción de posición final en una partida de PUBG
+## Link proyecto: https://www.kaggle.com/competitions/pubg-finish-placement-prediction/
+
 ## Miembros del grupo:
 - Jhon Alexander Bedoya Carvajal
 - Maria Camila Arcila Ramírez
@@ -11,7 +19,5 @@ Los datos están cargados en Github, por lo que se puede acceder a ellos desde l
 - Datos procesados: https://raw.githubusercontent.com/AlexBedCarIA/IA_project_Alexander_Bedoya/main/datos_proyecto_procesados.csv
 
 El acceso a estos datos ya se encuentra listo en cada Colab.
-
-En este repositorio se alojan las entregas para el proyecto final del curso de Introducción a la Inteligencia Artificial de la UdeA.
 
 Video Entrega 2: https://youtu.be/uObVi9eAc88
