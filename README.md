@@ -1,9 +1,9 @@
 # Predicción de posición final en una partida de PUBG
-##Miembros del grupo:
+## Miembros del grupo:
 - Jhon Alexander Bedoya Carvajal
 - Maria Camila Arcila Ramírez
 
-##Datos:
+## Datos:
 
 Los datos están cargados en Github, por lo que se puede acceder a ellos desde las siguientes urls:
 
