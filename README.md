@@ -5,7 +5,7 @@ En este repositorio se alojan las entregas para el proyecto final del curso de I
 # Proyecto:
 
 ## Predicción de posición final en una partida de PUBG
-## Link proyecto: https://www.kaggle.com/competitions/pubg-finish-placement-prediction/
+Link proyecto: https://www.kaggle.com/competitions/pubg-finish-placement-prediction/
 
 ## Miembros del grupo:
 - Jhon Alexander Bedoya Carvajal
